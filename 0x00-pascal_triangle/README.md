@@ -1,0 +1,1 @@
+This is a new directory 0x00-pascal_triangle
